@@ -5,7 +5,8 @@ This is  a Movie Recommendation Web application using a machine learning model w
 
 ## Screenshot 1
 
-![image](https://github.com/gaurav0401/Movie-Recommendation-System-Using--ML-and-Streamlit/assets/80095859/50166bd5-c893-4d40-9e1b-36a003d27f3a)
+![image](https://github.com/gaurav0401/Movie-Recommendation-System-Using--ML-and-Streamlit/assets/80095859/132a2929-37a2-49db-8273-823c8732670a)
+
 
 
 ## Screenshot 2
