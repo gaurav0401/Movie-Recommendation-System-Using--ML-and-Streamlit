@@ -1,6 +1,6 @@
 # Movie-Recommendation-System-Using--ML-and-Streamlit
 
-This is  a Movie Recommendation Web Applicaion using machine learning model which learns the user's preference  based on what he watched last time and then suggest new movies with same genre and cast.
+This is  a Movie Recommendation Web application using a machine learning model which learns the user's preference  based on what he watched last time and then suggests new movies with the same genre or cast.
 
 
 ## Screenshot 1
